@@ -1,0 +1,10 @@
+[
+  "backend/tests/test_api.py::test_audit_trail_integrity",
+  "backend/tests/test_api.py::test_auth_login_and_role_switch",
+  "backend/tests/test_api.py::test_dashboard_stats",
+  "backend/tests/test_api.py::test_documents_and_pipeline",
+  "backend/tests/test_api.py::test_extraction_and_field_edit",
+  "backend/tests/test_api.py::test_gis_parcels_geojson",
+  "backend/tests/test_api.py::test_root_and_health",
+  "backend/tests/test_api.py::test_verification_and_approval"
+]
